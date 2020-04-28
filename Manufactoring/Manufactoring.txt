@@ -1,0 +1,13 @@
+DepType        DepartmentName    PersonType  Id  Name 	    Surname StartYear BaseSalary TotalSales CommissionRate  Overtime HourlyOvertimePay 
+PlanningDep    Planning          Staff        1  Canan      Gul          2019       2000          0           0.00       0.0              0.00 
+ProductionDep  Production        Worker	      2  Hasan      Mert         2018       2500          0           0.00       5.0             20.00 
+SalesDep       Sales             SalesPerson  3  Cenk       Savas        2017       2300     100000           0.05       0.0              0.00
+PlanningDep    Planning          Staff        4  Cem        Sever        2016       2200          0           0.00       0.0              0.00 
+ProductionDep  Production        Worker	      5  Rana       Yesil        2010       2500          0           0.00       5.0             20.00 
+SalesDep       Sales             SalesPerson  6  Mert       Sabir        2015       2700     150000           0.04       0.0              0.00
+PlanningDep    Planning          Staff        7  Kazim      Turan        2015       2400          0           0.00       0.0              0.00 
+ProductionDep  Production        Worker	      8  Batuhan    Mert         2017       3500          0           0.00       5.0             20.00 
+SalesDep       Sales             SalesPerson  9  Fatih      Yilmaz       2019       3000     200000           0.04       0.0              0.00
+ProductionDep  Production        Worker	     10  Ozgur      Can          2010       3600          0           0.00      15.0             20.00 
+ProductionDep  Production        Worker	     11  Gamze      Kizil        2011       2100          0           0.00      20.0             15.00 
+ProductionDep  Production        Worker	     12  Leyla      Zeytin       2014       2700          0           0.00      10.0             10.00
